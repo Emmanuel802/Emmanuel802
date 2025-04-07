@@ -30,7 +30,8 @@ Currently Studying Software Development At CodeSpace, I’m Exploring Front-End 
 ### 🤝 Let’s Connect
 
 - 📧 Email: a.emmanuelll.17@gmail.com
-- 🔗 LinkedIn: [linkedin.com/Emmanuel Mwamuka](https://www.linkedin.com/in/emmanuel-anotida-275586263/)
+- 🔗 LinkedIn: [linkedin.com/in/emmanuel-anotida](https://www.linkedin.com/in/emmanuel-anotida-275586263/)
+
 - 🧠 Always Open To Collaboration, Learning, And Creative Projects
 
 ---
