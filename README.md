@@ -15,7 +15,6 @@ Currently Studying Software Development At CodeSpace, I’m Exploring Front-End 
 
 - Designing A **3D Interactive Portfolio Room** With Clickable Elements (HTML, CSS, JS Coming Soon)
 - Learning The Fundamentals Of **Web Development** (HTML & CSS First, JavaScript Next)
-- Building A Fully **Automated PC Maintenance Tool** With Plans For A UI Version
 
 ---
 
